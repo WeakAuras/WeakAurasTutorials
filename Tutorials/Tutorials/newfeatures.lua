@@ -278,7 +278,7 @@ local function icon()
     texture:SetTexture("Interface\\AddOns\\WeakAuras\\Media\\Textures\\icon.blp");
     texture:SetVertexColor(1, 1, 0);
     texture:SetAllPoints(region);
-    
+
     return region;
 end
 

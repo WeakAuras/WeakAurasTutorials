@@ -1,0 +1,5 @@
+package-as: WeakAurasTutorials
+enable-nolib-creation: no
+
+move-folders:
+ WeakAurasTutorials/WeakAurasTutorials: WeakAurasTutorials
